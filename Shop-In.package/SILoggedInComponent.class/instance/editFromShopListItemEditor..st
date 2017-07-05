@@ -1,0 +1,3 @@
+Action
+editFromShopListItemEditor: aShopListItem
+	aShopListItem copyFrom: self shopListEditor shopListItemEditor shopListItem 

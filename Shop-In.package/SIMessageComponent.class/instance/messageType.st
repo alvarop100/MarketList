@@ -1,0 +1,4 @@
+Accessing-Private
+messageType
+
+	^messageType

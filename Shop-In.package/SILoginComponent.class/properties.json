@@ -1,0 +1,16 @@
+{
+	"category" : "Shop-In",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"email",
+		"password",
+		"messageComponent" ],
+	"name" : "SILoginComponent",
+	"pools" : [
+		 ],
+	"super" : "WAComponent",
+	"type" : "normal" }

@@ -1,0 +1,3 @@
+Conection
+connectionFailed
+	^ connectionFailed

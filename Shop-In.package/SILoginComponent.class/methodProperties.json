@@ -1,0 +1,22 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"applicationName" : "Anonymous 12/3/2016 12:16",
+		"email" : "Alvaro 11/14/2016 00:43",
+		"email:" : "Alvaro 11/14/2016 00:43",
+		"initialize" : "Anonymous 12/3/2016 11:26",
+		"loginFailed" : "Anonymous 11/5/2016 15:11",
+		"loginFailedWrongEmail" : "Anonymous 12/3/2016 11:13",
+		"loginFailedWrongPassword" : "Anonymous 12/3/2016 11:13",
+		"messageComponent" : "Alvaro 11/16/2016 19:43",
+		"password" : "Alvaro 11/14/2016 00:44",
+		"password:" : "Alvaro 11/14/2016 00:43",
+		"registerUser" : "Anonymous 11/5/2016 15:12",
+		"renderContentOn:" : "Anonymous 11/5/2016 15:03",
+		"renderLoginButtonOn:" : "Anonymous 11/5/2016 15:08",
+		"renderPasswordInputOn:" : "Alvaro 11/15/2016 23:00",
+		"renderSignUpAnchorOn:" : "Alvaro 11/20/2016 23:21",
+		"renderTextInputOn:" : "Anonymous 11/5/2016 15:07",
+		"resetEmailAndPassword" : "Anonymous 12/3/2016 11:14",
+		"validateLogin" : "Anonymous 12/3/2016 11:02" } }

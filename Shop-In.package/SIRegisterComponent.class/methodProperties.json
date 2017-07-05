@@ -1,0 +1,18 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"initialize" : "Anonymous 12/3/2016 11:26",
+		"messageComponent" : "Anonymous 12/3/2016 11:27",
+		"registerUser" : "Alvaro 11/16/2016 19:00",
+		"renderCancelButtonOn:" : "Anonymous 11/5/2016 15:32",
+		"renderContentOn:" : "Anonymous 11/5/2016 15:28",
+		"renderEmailTextInputOn:" : "Anonymous 11/5/2016 15:33",
+		"renderPasswordTextInputOn:" : "Alvaro 11/15/2016 23:00",
+		"renderRepeatedPasswordTextInputOn:" : "Alvaro 11/15/2016 23:00",
+		"renderSubmitButtonOn:" : "Anonymous 11/5/2016 15:31",
+		"renderUsernameTextInputOn:" : "Anonymous 11/5/2016 15:33",
+		"repeatedPassword" : "Anonymous 11/5/2016 15:25",
+		"repeatedPassword:" : "Anonymous 11/5/2016 15:25",
+		"user" : "Anonymous 11/5/2016 15:23",
+		"user:" : "Anonymous 11/5/2016 15:24" } }

@@ -1,0 +1,24 @@
+{
+	"class" : {
+		"glorpSetupDescriptor:forSystem:" : "Anonymous 12/4/2016 01:18",
+		"named:describedBy:" : "Alvaro 11/20/2016 21:23" },
+	"instance" : {
+		"addCollaborator:" : "Anonymous 12/3/2016 18:22",
+		"addItem:" : "InesSosa 10/31/2016 00:09",
+		"assertItemIsNotRepeated:" : "InesSosa 10/31/2016 00:10",
+		"collaborators" : "Anonymous 12/3/2016 18:13",
+		"completed" : "Anonymous 12/3/2016 14:12",
+		"completed:" : "Anonymous 12/3/2016 14:12",
+		"deleteItem:" : "Alvaro 11/8/2016 19:42",
+		"description" : "Anonymous 10/23/2016 17:34",
+		"description:" : "Anonymous 10/23/2016 17:35",
+		"hasCollaborator:" : "Anonymous 12/3/2016 19:49",
+		"id" : "Anonymous 10/24/2016 23:06",
+		"initialize" : "Anonymous 12/3/2016 18:13",
+		"initializeNamed:describedBy:" : "Alvaro 11/20/2016 21:24",
+		"items" : "InesSosa 10/31/2016 00:06",
+		"items:" : "Alvaro 11/20/2016 17:00",
+		"longPrintString" : "Anonymous 12/2/2016 16:54",
+		"name" : "Anonymous 10/23/2016 17:34",
+		"name:" : "Anonymous 10/23/2016 17:51",
+		"removeItem:" : "InesSosa 10/31/2016 00:29" } }

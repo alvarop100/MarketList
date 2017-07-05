@@ -1,0 +1,14 @@
+{
+	"category" : "Shop-In",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"dataBase" ],
+	"name" : "SIRootTask",
+	"pools" : [
+		 ],
+	"super" : "WATask",
+	"type" : "normal" }

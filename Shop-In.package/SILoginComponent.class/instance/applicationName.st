@@ -1,0 +1,4 @@
+Accessing
+applicationName
+
+	^ SIFileLibrary applicationName

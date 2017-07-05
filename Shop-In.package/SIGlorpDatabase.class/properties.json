@@ -1,0 +1,15 @@
+{
+	"category" : "Shop-In",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"glorpSession",
+		"connectionFailed" ],
+	"name" : "SIGlorpDatabase",
+	"pools" : [
+		 ],
+	"super" : "DescriptorSystem",
+	"type" : "normal" }

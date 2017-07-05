@@ -1,0 +1,21 @@
+{
+	"category" : "Shop-In",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"menuComponent",
+		"listComponent",
+		"shopListEditor",
+		"messageComponent",
+		"user",
+		"shareWindow",
+		"collaborativeListComponent",
+		"profileEditor" ],
+	"name" : "SILoggedInComponent",
+	"pools" : [
+		 ],
+	"super" : "WAComponent",
+	"type" : "normal" }

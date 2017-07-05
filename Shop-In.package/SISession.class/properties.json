@@ -1,0 +1,15 @@
+{
+	"category" : "Shop-In",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"user",
+		"database" ],
+	"name" : "SISession",
+	"pools" : [
+		 ],
+	"super" : "WASession",
+	"type" : "normal" }

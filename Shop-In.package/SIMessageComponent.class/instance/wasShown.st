@@ -1,0 +1,4 @@
+Accessing-Private
+wasShown
+
+	^wasShown

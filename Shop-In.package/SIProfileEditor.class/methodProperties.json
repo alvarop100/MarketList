@@ -1,0 +1,16 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"initialize" : "",
+		"renderButtonsOn:" : "Anonymous 12/4/2016 23:48",
+		"renderContentOn:" : "Anonymous 12/5/2016 00:54",
+		"renderEmailImputOn:" : "Anonymous 12/4/2016 23:49",
+		"renderNameImputOn:" : "Anonymous 12/4/2016 23:49",
+		"renderOldPasswordTextInputOn:" : "Anonymous 12/4/2016 23:50",
+		"renderPasswordTextInputOn:" : "Anonymous 12/4/2016 23:50",
+		"renderRepeatedPasswordTextInputOn:" : "Anonymous 12/4/2016 23:50",
+		"repeatedPassword" : "Anonymous 12/5/2016 00:37",
+		"repeatedPassword:" : "Anonymous 12/5/2016 00:38",
+		"user" : "Anonymous 12/4/2016 23:50",
+		"user:" : "Anonymous 12/4/2016 23:51" } }

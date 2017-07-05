@@ -1,0 +1,4 @@
+Action
+applicationName
+
+	^ SIFileLibrary applicationName

@@ -1,0 +1,3 @@
+Accessing
+collaborativeListComponent: aListComponent
+	collaborativeListComponent := aListComponent

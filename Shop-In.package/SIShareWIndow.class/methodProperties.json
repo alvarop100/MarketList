@@ -1,0 +1,16 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"initialize" : "Anonymous 12/4/2016 22:25",
+		"messageComponent" : "Anonymous 12/4/2016 22:14",
+		"renderButtonsOn:" : "Anonymous 12/3/2016 17:13",
+		"renderContentOn:" : "Anonymous 12/4/2016 22:16",
+		"renderListNameInputOn:" : "Anonymous 12/3/2016 16:53",
+		"renderUserNameInputOn:" : "Anonymous 12/3/2016 16:51",
+		"reset" : "Anonymous 12/3/2016 16:52",
+		"shopList" : "Anonymous 12/3/2016 15:46",
+		"shopList:" : "Anonymous 12/3/2016 15:46",
+		"user" : "Anonymous 12/3/2016 15:47",
+		"user:" : "Anonymous 12/3/2016 15:47",
+		"validateAssignment" : "Anonymous 12/4/2016 22:18" } }

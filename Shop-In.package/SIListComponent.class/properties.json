@@ -1,0 +1,18 @@
+{
+	"category" : "Shop-In",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"renderItemBlock",
+		"filterBlock",
+		"sortBlock",
+		"items",
+		"title" ],
+	"name" : "SIListComponent",
+	"pools" : [
+		 ],
+	"super" : "WAComponent",
+	"type" : "normal" }

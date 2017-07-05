@@ -1,0 +1,12 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"initialize" : "InesSosa 10/30/2016 23:57",
+		"newShopListItem" : "InesSosa 11/2/2016 22:16",
+		"renderButtonsOn:" : "InesSosa 10/31/2016 02:05",
+		"renderContentOn:" : "InesSosa 11/2/2016 23:15",
+		"renderNameInputOn:" : "InesSosa 10/31/2016 02:05",
+		"renderQuantityInputOn:" : "InesSosa 11/2/2016 23:15",
+		"shopListItem" : "InesSosa 10/30/2016 23:58",
+		"shopListItem:" : "InesSosa 10/30/2016 23:58" } }

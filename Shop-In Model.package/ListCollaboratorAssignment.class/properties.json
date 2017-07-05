@@ -1,0 +1,16 @@
+{
+	"category" : "Shop-In Model",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"id",
+		"userName",
+		"shopListName" ],
+	"name" : "ListCollaboratorAssignment",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

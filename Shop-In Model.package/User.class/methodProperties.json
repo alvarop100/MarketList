@@ -1,0 +1,19 @@
+{
+	"class" : {
+		"glorpSetupDescriptor:forSystem:" : "Anonymous 12/4/2016 01:17",
+		"hashPassword:" : "Anonymous 12/5/2016 01:18" },
+	"instance" : {
+		"addCollaboringList:" : "Anonymous 12/3/2016 18:23",
+		"addList:" : "Anonymous 11/28/2016 17:23",
+		"collaboratesIn:" : "Anonymous 12/3/2016 19:36",
+		"collaboratingLists" : "Anonymous 12/3/2016 18:01",
+		"created:" : "Anonymous 12/3/2016 14:04",
+		"email" : "Anonymous 11/8/2016 19:09",
+		"email:" : "Anonymous 11/8/2016 19:10",
+		"initialize" : "Anonymous 12/3/2016 18:13",
+		"lists" : "Anonymous 11/28/2016 17:24",
+		"name" : "Alvaro 11/14/2016 23:25",
+		"name:" : "Alvaro 11/14/2016 23:26",
+		"password" : "Alvaro 11/14/2016 23:26",
+		"password:" : "Alvaro 11/14/2016 23:27",
+		"removeList:" : "Anonymous 11/28/2016 17:24" } }

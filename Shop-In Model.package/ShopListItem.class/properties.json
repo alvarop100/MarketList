@@ -1,0 +1,16 @@
+{
+	"category" : "Shop-In Model",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"id",
+		"name",
+		"quantity" ],
+	"name" : "ShopListItem",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

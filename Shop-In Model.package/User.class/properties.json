@@ -1,0 +1,19 @@
+{
+	"category" : "Shop-In Model",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"id",
+		"name",
+		"email",
+		"password",
+		"lists",
+		"collaboratingLists" ],
+	"name" : "User",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

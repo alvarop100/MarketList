@@ -1,0 +1,4 @@
+Accessing
+messageComponent
+
+	^ messageComponent

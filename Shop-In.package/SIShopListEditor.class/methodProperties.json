@@ -1,0 +1,27 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"addShopListItemFromEditor" : "Alvaro 11/21/2016 20:41",
+		"createNewShopListItem" : "Alvaro 11/21/2016 20:41",
+		"deleteShopListItem:" : "InesSosa 11/2/2016 23:01",
+		"editFromShopListItemEditor:" : "InesSosa 11/2/2016 22:58",
+		"editShopListItem:" : "InesSosa 11/2/2016 22:58",
+		"initialize" : "Alvaro 11/20/2016 19:21",
+		"initializeListItemsComponent" : "Anonymous 12/4/2016 23:04",
+		"initializeMenuComponent" : "Alvaro 11/21/2016 20:42",
+		"listComponent" : "Alvaro 11/14/2016 23:47",
+		"listComponent:" : "InesSosa 11/2/2016 23:08",
+		"listComponentWIthItems" : "Alvaro 11/14/2016 23:48",
+		"menuComponent" : "InesSosa 11/2/2016 23:08",
+		"menuComponent:" : "InesSosa 11/2/2016 23:08",
+		"newShopList" : "InesSosa 11/2/2016 22:16",
+		"renderButtonsOn:" : "InesSosa 11/2/2016 23:03",
+		"renderContentOn:" : "Alvaro 11/14/2016 23:48",
+		"renderDescriptionInputOn:" : "Alvaro 11/21/2016 20:42",
+		"renderNameInputOn:" : "Alvaro 11/21/2016 20:42",
+		"renderShopListItem:asRowOn:" : "InesSosa 11/2/2016 22:56",
+		"shopList" : "Anonymous 10/23/2016 17:31",
+		"shopList:" : "Anonymous 10/23/2016 17:30",
+		"shopListItemEditor" : "InesSosa 11/2/2016 22:14",
+		"showAllShopListItems" : "InesSosa 11/2/2016 22:59" } }

@@ -1,0 +1,16 @@
+{
+	"category" : "Shop-In",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"user",
+		"list",
+		"messageComponent" ],
+	"name" : "SIShareWIndow",
+	"pools" : [
+		 ],
+	"super" : "WAComponent",
+	"type" : "normal" }

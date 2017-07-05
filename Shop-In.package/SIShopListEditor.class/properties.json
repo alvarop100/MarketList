@@ -1,0 +1,17 @@
+{
+	"category" : "Shop-In",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"shopList",
+		"shopListItemEditor",
+		"listComponent",
+		"menuComponent" ],
+	"name" : "SIShopListEditor",
+	"pools" : [
+		 ],
+	"super" : "WAComponent",
+	"type" : "normal" }
